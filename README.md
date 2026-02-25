@@ -19,7 +19,7 @@
 ***
 ![#ALD01273](https://github.com/DrifterAldvvyn/hang_zhi_pong/blob/9a019cb9b14e8b29ffe50ea566bde8b8e8f2f877/images/ALD01273.jpg)
 ***
-![#ALD01293](https://github.com/DrifterAldvvyn/hang_zhi_pong/blob/9a019cb9b14e8b29ffe50ea566bde8b8e8f2f877/images/ALD01293.jpg)
+![#ALD01293](https://github.com/DrifterAldvvyn/hang_zhi_pong/blob/f9b84071bb998ffd594222b1524ad939ee4fb97c/images/ALD01293.jpg)
 ***
 ![#ALD01303](https://github.com/DrifterAldvvyn/hang_zhi_pong/blob/9a019cb9b14e8b29ffe50ea566bde8b8e8f2f877/images/ALD01303.jpg)
 ***
